@@ -1,0 +1,7 @@
+../Core/Src/adc.c:31:6:divide_adc_12bit	32	static
+../Core/Src/adc.c:46:10:calibrate_adc	24	static
+../Core/Src/adc.c:57:6:touch_fader	144	static
+../Core/Src/adc.c:129:6:analog	24	static
+../Core/Src/adc.c:179:6:MX_ADC1_Init	24	static
+../Core/Src/adc.c:227:6:HAL_ADC_MspInit	48	static
+../Core/Src/adc.c:254:6:HAL_ADC_MspDeInit	16	static

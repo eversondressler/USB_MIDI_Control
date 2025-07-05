@@ -1,0 +1,7 @@
+../USB_DEVICE/App/usbd_midi_if.c:327:6:USBD_MidiMessage	32	static
+../USB_DEVICE/App/usbd_midi_if.c:351:9:MIDI_Init_FS	4	static
+../USB_DEVICE/App/usbd_midi_if.c:359:9:MIDI_DeInit_FS	4	static
+../USB_DEVICE/App/usbd_midi_if.c:367:9:MIDI_DataIn_FS	24	static
+../USB_DEVICE/App/usbd_midi_if.c:395:9:MIDI_DataOut_FS	40	static
+../USB_DEVICE/App/usbd_midi_if.c:448:9:MIDI_Receive_FS	16	static
+../USB_DEVICE/App/usbd_midi_if.c:458:9:MIDI_GetState_FS	4	static
